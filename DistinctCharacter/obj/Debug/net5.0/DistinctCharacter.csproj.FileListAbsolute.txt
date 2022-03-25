@@ -1,0 +1,16 @@
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\bin\Debug\net5.0\DistinctCharacter.exe
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\bin\Debug\net5.0\DistinctCharacter.deps.json
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\bin\Debug\net5.0\DistinctCharacter.runtimeconfig.json
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\bin\Debug\net5.0\DistinctCharacter.runtimeconfig.dev.json
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\bin\Debug\net5.0\DistinctCharacter.dll
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\bin\Debug\net5.0\ref\DistinctCharacter.dll
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\bin\Debug\net5.0\DistinctCharacter.pdb
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.csproj.AssemblyReference.cache
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.AssemblyInfoInputs.cache
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.AssemblyInfo.cs
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.csproj.CoreCompileInputs.cache
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.dll
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\ref\DistinctCharacter.dll
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.pdb
+C:\Users\priyanka.mukhi\projects\DistinctCharacter\DistinctCharacter\obj\Debug\net5.0\DistinctCharacter.genruntimeconfig.cache
